@@ -1,0 +1,2 @@
+'Based Technologies Co' will collect no telemetry on its apps and services.
+Also see https://danielc.dev/p/
