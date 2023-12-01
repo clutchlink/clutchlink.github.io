@@ -1,2 +1,2 @@
-Clutchlink (previously known as 'Based Technologies Co') will collect no telemetry on its apps and services.
-Apps: https://danielc.dev/p/
+Clutchlink will collect no telemetry on its apps and services.
+Individual policies are located in https://s1.danielc.dev/p/
